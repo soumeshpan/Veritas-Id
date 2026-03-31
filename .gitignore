@@ -8,11 +8,6 @@ dist/
 # Environment variables (keep .env.example, ignore .env)
 server/.env
 
-# SQLite database files
-server/*.db
-server/*.db-shm
-server/*.db-wal
-
 # Logs
 *.log
 npm-debug.log*
